@@ -1,0 +1,10 @@
+# Ignorer les fichiers de compilation
+*.o
+*.exe
+*.out
+/obj/
+/bin/
+
+# Ignorer les configurations des éditeurs de code (VSCode, etc.)
+.vscode/
+.idea/
